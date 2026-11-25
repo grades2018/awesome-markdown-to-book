@@ -86,4 +86,6 @@ Validate and repair files before upload.
 
 PRs welcome, see [CONTRIBUTING.md](CONTRIBUTING.md). Keep entries relevant to writing, building, laying out, or checking books made from Markdown, with official links and one-line descriptions.
 
+If this list is useful to you, a star helps other writers find it.
+
 This list is curated by the ImagineYourBook team; other tools are included on merit.
