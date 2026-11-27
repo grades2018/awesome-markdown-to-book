@@ -77,6 +77,7 @@ Validate and repair files before upload.
 ## Related Lists
 
 - [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
+- [Awesome AI Study Guides](https://github.com/grades2018/awesome-ai-study-guides) - Tools for turning course notes into study guides and revision handbooks.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI and publishing tools for Amazon KDP authors.
 - [Awesome Markdown](https://github.com/mansucache/awesome-markdown) - Guide to the wider Markdown ecosystem.
 - [Awesome mdBook](https://github.com/softprops/awesome-mdbook) - Catalog of books built with mdBook.
